@@ -1,6 +1,6 @@
 # SR-Download-Library
 ![StarRailBanner](https://webstatic.mihoyo.com/upload/op-public/2021/10/09/6c0e9aaa5b9471e32316d11284edb710_2698450106633206665.png)  
-[EN](README.md) | [简中](README_zh-CN.md)
+**EN**|[简体中文](Readme.Chinese_Simplified.md)|[繁體中文](Readme.Chinese_Traditional.md)  
 
 ## StarRail Download Links
 <!--### Tips
@@ -29,7 +29,7 @@ If you want to share something that you think is dear to you and should not be d
 
 ### What's the difference between _"StarRail_OS"_ and _"StarRail_CN"_?
 * **StarRail_OS** - Overseas/Global Version
-* **StarRail_CN** - Chinese Version
+* **StarRail_CN** - Mainland Chinese Version
 ---
 **Note**: 
 * This repository will update from time to time when new version of the game gets released.
