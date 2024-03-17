@@ -1,6 +1,6 @@
 # 星穹铁道-下载链接仓库
 ![StarRailBanner](https://webstatic.mihoyo.com/upload/op-public/2021/10/09/6c0e9aaa5b9471e32316d11284edb710_2698450106633206665.png)  
-[EN](README.md) | [简中](README_zh-CN.md)
+[EN](Readme.md)|**简体中文**|[繁體中文](Readme.Chinese_Traditional.md)  
 
 ## 星穹铁道的下载链接
 <!--### 提示
@@ -28,7 +28,7 @@
 * **autopatchos** - StarRail_CN
 
 ### "StarRail_CN" 和 "StarRail_OS" 这两个版本有什么区别?
-* **StarRail_CN** - 中国版-CN版
+* **StarRail_CN** - 中国大陆版-CN版
 * **StarRail_OS** - 国际版-OS版
 ---
 **注意**: 
