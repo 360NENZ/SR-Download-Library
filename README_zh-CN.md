@@ -1,6 +1,6 @@
 # 星穹铁道-下载链接仓库
 ![StarRailBanner](https://webstatic.mihoyo.com/upload/op-public/2021/10/09/6c0e9aaa5b9471e32316d11284edb710_2698450106633206665.png)  
-[EN](README.md) | [简中](README_zh-CN.md)
+[EN](README.md) | [简中](README_zh-CN.md) | [繁中](README_zh-TW.md)
 
 ## 星穹铁道的下载链接
 <!--### 提示
