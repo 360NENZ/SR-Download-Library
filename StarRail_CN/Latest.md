@@ -5,3 +5,5 @@
 **[BiliBili Launcher](https://api-static.mihoyo.com/takumi/ptolemaios_api/api/getLatestRelease?app_id=1953445620&channel=official&app_version=2.26.0.0&key=c8f9b0b98c89f9c2680b4b2b02b96c5a46cd3347411ab037c206381897226f43)**
 
 **[miHoYo Launcher API GamePackages](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGamePackages?game_ids[]=64kMb5iAWu&launcher_id=jGHBHlcOq1)**
+
+**[Latest OS HoYoPlay Sophon Chunks Build](https://downloader-api.mihoyo.com/downloader/sophon_chunk/api/getBuild?branch=main&package_id=Je5DM3y6Q2&password=xAghmdIRsgzX&tag=)**
