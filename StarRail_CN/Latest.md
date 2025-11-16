@@ -6,4 +6,6 @@
 
 **[miHoYo Launcher API GamePackages](https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGamePackages?game_ids[]=64kMb5iAWu&launcher_id=jGHBHlcOq1)**
 
-**[Latest OS HoYoPlay Sophon Chunks Build](https://downloader-api.mihoyo.com/downloader/sophon_chunk/api/getBuild?branch=main&package_id=Je5DM3y6Q2&password=xAghmdIRsgzX&tag=)**
+**[Latest CN HoYoPlay Sophon Chunks Build](https://downloader-api.mihoyo.com/downloader/sophon_chunk/api/getBuild?branch=main&package_id=Je5DM3y6Q2&password=xAghmdIRsgzX&tag=)**
+
+**[Latest CN BiliBili Sophon Chunks Build](https://downloader-api.mihoyo.com/downloader/sophon_chunk/api/getBuild?branch=main&package_id=HMNH5r9cEH&password=nQ2pokX2pFIG&plat_app=ddxf5qt290cg&tag=)**
